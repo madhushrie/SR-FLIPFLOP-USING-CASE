@@ -81,7 +81,7 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot (111)](https://github.com/user-attachments/assets/7451cc8c-580a-4d35-a8c0-840111574a62)
+![Screenshot (111)](https://github.com/user-attachments/assets/706631dc-3ddc-4e36-9d48-652da53b8081)
 
 **RESULTS**
 thus the SR-FLIPFLOP using verilog was implemented and validated their functtionality using their function tables.
